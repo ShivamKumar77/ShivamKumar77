@@ -1,4 +1,8 @@
 ![logo](https://github.com/ShivamKumar77/ShivamKumar77/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
+  <div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Shivam-Kumar+%F0%9F%91%8B;Computer+Science+Student;Cyber-Security;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
+    </div>
+
 <h1 align="center">Hi 👋, I'm Shivam Kumar</h1>
 <h3 align="center">A passionate Cyber Security from India</h3>
 
