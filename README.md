@@ -36,4 +36,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamkumar77&" alt="shivamkumar77" /></p>
 
+### 🎖 &nbsp;My Badges 
+
+[![An image of @adityakanoi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityakanoi)](https://holopin.io/@adityakanoi)
+
+
 
