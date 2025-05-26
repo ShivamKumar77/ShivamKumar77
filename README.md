@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Shivam Kumar</h1>
 <h3 align="center">A passionate Cyber Security from India</h3>
 
-<img align="right" alt="Coding" width=400 src="https://cdn.hashnode.com/res/hashnode/image/upload/v1690034956546/101c1694-7e87-458e-afd5-ab65c48c468e.gif?w=500&h=262&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm">
+<img align="right" alt="Coding" width=400 src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamkumar77&label=Profile%20views&color=0e75b6&style=flat" alt="shivamkumar77" /> </p>
 
