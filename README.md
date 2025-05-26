@@ -38,11 +38,45 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamkumar77&show_icons=true&locale=en" alt="shivamkumar77" /></p>
 
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamkumar77&" alt="shivamkumar77" /></p>
 
 ### 🎖 &nbsp;My Badges 
 
 [![An image of @adityakanoi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityakanoi)](https://holopin.io/@adityakanoi)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1759 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+🌆 Daytime                7893 commits        █████████░░░░░░░░░░░░░░░░   34.67 % 
+🌃 Evening                8423 commits        █████████░░░░░░░░░░░░░░░░   37.00 % 
+🌙 Night                  4690 commits        █████░░░░░░░░░░░░░░░░░░░░   20.60 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   2481 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+Tuesday                  4599 commits        █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
+Wednesday                5406 commits        ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
+Thursday                 3293 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+Friday                   3403 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+Saturday                 2513 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+Sunday                   1070 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+🔥 Editors: 
+VS Code                  12 hrs 7 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      12 hrs 7 mins       █████████████████████████   100.00 % 
 
 
 
