@@ -46,6 +46,35 @@
 
 [![An image of @adityakanoi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityakanoi)](https://holopin.io/@adityakanoi)
 
+
+![](https://img.shields.io/badge/hackGPT-v23-purple)
+
+`Test the app live here:` https://hackgpt.com
+<img width="1681" alt="Screenshot 2023-04-30 at 6 59 28 PM" src="https://user-images.githubusercontent.com/3261849/235382192-714758c2-5117-4c95-851d-eeeb9301221f.png">
+
+![Screenshot 2023-05-11 at 12 09 48 PM](https://github.com/NoDataFound/hackGPT/assets/3261849/f8f85831-706f-4398-9da1-365323f656bd)
+
+
+![WhiskersGPT](https://github.com/NoDataFound/hackGPT/assets/3261849/2157a52a-5f77-4d23-a6ca-c80d917b2bf8)
+
+<img width="1681" alt="Screenshot 2023-04-29 at 2 42 41 PM" src="https://user-images.githubusercontent.com/3261849/235321459-35eb1ecb-58b6-4439-9fee-dbc63e13f3e1.png">
+
+<img width="1624" alt="Screenshot 2023-04-24 at 8 41 52 PM" src="https://user-images.githubusercontent.com/3261849/234341399-f79b9ca3-e829-4831-8e67-e75e8840adfd.png">
+
+`hackGPT being superduper wrong`
+<img width="1663" alt="Nope" src="https://user-images.githubusercontent.com/3261849/223754401-e2caea7f-b4ff-452b-851e-2c3ab07c0192.png">
+
+`Ask ChatGPT to print its own source`
+
+<img width="675"  alt="Screenshot 2022-12-16 at 4 46 35 PM" src="https://user-images.githubusercontent.com/3261849/208202201-db534197-71c8-4f26-8041-72dd25e8d356.png">
+
+
+<img width="977" alt="Screenshot 2022-12-04 at 6 27 59 PM" src="https://user-images.githubusercontent.com/3261849/205525745-fa26c95b-9d86-4c84-8669-be1cde4abaf2.png">
+
+<img width="1269" alt="Screenshot 2022-12-04 at 6 32 40 PM" src="https://user-images.githubusercontent.com/3261849/205525669-9eb6e988-4440-43ea-8432-6f07066db7df.png">
+
+<img align="center" width="1800" alt="hackGPT" src="https://user-images.githubusercontent.com/3261849/211083766-e987961a-4f0a-427c-bbd8-6479f4449342.png"></p>
+
 **I'm a Night 🦉** 
 
 ```text
@@ -76,7 +105,9 @@ Sunday                   1070 commits        █░░░░░░░░░░�
 VS Code                  12 hrs 7 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      12 hrs 7 mins       █████████████████████████   100.00 % 
+Mac                      12 hrs 7 mins       █████████████████████████   100.00 %
+
+
 
 
 
