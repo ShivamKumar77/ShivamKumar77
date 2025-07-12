@@ -1,10 +1,25 @@
 ![logo](https://github.com/ShivamKumar77/ShivamKumar77/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
+
+<p align="center">
+  <img src="https://media.tenor.com/G4GdvEotPhoAAAAi/web-hack-hacker.gif" width="150" alt="Hackethics138 Logo" />
+</p><h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&width=440&lines=Hey+I'm+Shivam+Kumar;Ethical+Hacker+%7C+OSINT+Expert;Python+Automation;Welcome+to+my+world+%F0%9F%92%BB" alt="Typing SVG" />
+</h2>
   <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Shivam-Kumar+%F0%9F%91%8B;Computer+Science+Student;Cyber-Security;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
     </div>
 
 <h1 align="center">Hi 👋, I'm Shivam Kumar</h1>
 <h3 align="center">A passionate Cyber Security from India</h3>
+
+🧠 Who Am I?
+
+const whoAmI = () => ({
+  name: 'Shivam Kumar',
+  roles: ['Ethical Hacker', 'OSINT Expert', 'Python Developer'],
+  passion: 'Cybersecurity, Open Source Intelligence & Automation'
+});
+
 
 <img align="right" alt="Coding" width=400 src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif">
 
