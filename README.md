@@ -57,38 +57,83 @@ const whoAmI = () => ({
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamkumar77&" alt="shivamkumar77" /></p>
 
-### 🎖 &nbsp;My Badges 
+# Hi, I'm Shivam! 👋
 
-[![An image of @adityakanoi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityakanoi)](https://holopin.io/@adityakanoi)
+I'm a 25-year-old MCA Post graduate in Computer Science Engineering (CSE), fueled by a passion for cybersecurity. 
+As a fresher, I’m ready to jump into the world of cyber defense, aiming to kickstart my career as a Cybersecurity Analyst. I’m a fast learner who believes that with consistent effort and time, anyone can master anything. My approach? Learn by doing, and I love getting my hands dirty with real-world security challenges!
+
+I’ve built my skills through practical experience, completing over 100 rooms on TryHackMe and earning a spot in the **top 2%** on the platform. From tackling Capture The Flag (CTF) challenges to diving deep into SIEM, network monitoring, endpoint security, threat intelligence, digital forensics, and incident response, I’m all about solving problems and staying ahead of threats. My GitHub repositories showcase my journey—filled with write-ups and walkthroughs on how I learn and tackle each challenges.
+
+I also share my write-ups and notes through **articles** on my Medium page, hoping to help fellow cybersecurity enthusiasts navigate their cybersecurity path smoothly. 
+
+<div align="center">
+  <a href="https://tryhackme.com/p/shivamk7761" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/shivamk7761.png" alt="Your Image Badge" />
+
+  
+</div>
+
+## Skills
+Log analysis, Threat detection, Identifying anomalies, Securing networks, Protecting devices and endpoints, Tracking and analyzing cyber threats, Investigating and responding to incidents , Malware analysis, Phishing analysis, Analytical thinking, Attention to detail, and mitigating cyber threats effectively under high pressure environment.
+
+## Security Tools 
+- **SIEM** <br>
+  <a href="https://www.splunk.com/" target="_blank"><img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white"></a>
+  <a href="https://www.elastic.co/" target="_blank"><img src="https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=Elastic&logoColor=white"></a><br>
+- **Network Monitoring** <br>
+  <a href="https://www.snort.org/" target="_blank"><img src="https://img.shields.io/badge/Snort-8B0000?logo=simple-icons:snort&labelColor=8B0000&color=8B0000&logoColor=white&style=for-the-badge"></a>
+  <a href="https://www.netresec.com/?page=NetworkMiner" target="_blank"><img src="https://img.shields.io/badge/NetworkMiner-1E90FF?logo=simple-icons:networkminer&labelColor=1E90FF&color=1E90FF&logoColor=white&style=for-the-badge"></a>
+  <a href="https://zeek.org/" target="_blank"><img src="https://img.shields.io/badge/Zeek-8B4513?logo=simple-icons:zeek&labelColor=8B4513&color=8B4513&logoColor=white&style=for-the-badge"></a>
+  <a href="https://www.brimsecurity.com/" target="_blank"><img src="https://img.shields.io/badge/Brim-4B0082?logo=simple-icons:brim&labelColor=4B0082&color=4B0082&logoColor=white&style=for-the-badge"></a>
+  <a href="https://www.wireshark.org/" target="_blank"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white"></a>
+  <a href="https://www.wireshark.org/docs/man-pages/tshark.html" target="_blank"><img src="https://img.shields.io/badge/TShark-0F4D7D?logo=simple-icons:wireshark&labelColor=0F4D7D&color=0F4D7D&logoColor=white&style=for-the-badge"></a><br>
+- **Endpoint Security** <br>
+  <a href="https://learn.microsoft.com/en-us/sysinternals/" target="_blank"><img src="https://img.shields.io/badge/Sysinternals-005BAF?logo=simple-icons:microsoft&labelColor=005BAF&color=005BAF&logoColor=white&style=for-the-badge"></a>
+  <a href="https://learn.microsoft.com/en-us/windows/win32/eventlog/event-logging" target="_blank"><img src="https://img.shields.io/badge/Windows_Event_Logs-005BAF?logo=simple-icons:microsoft&labelColor=005BAF&color=005BAF&logoColor=white&style=for-the-badge"></a>
+  <a href="https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon" target="_blank"><img src="https://img.shields.io/badge/Sysmon-005BAF?logo=simple-icons:microsoft&labelColor=005BAF&color=005BAF&logoColor=white&style=for-the-badge"></a>
+  <a href="https://osquery.io/" target="_blank"><img src="https://img.shields.io/badge/Osquery-8B0000?logo=simple-icons:osquery&labelColor=8B0000&color=8B0000&logoColor=white&style=for-the-badge"></a>
+  <a href="https://wazuh.com/" target="_blank"><img src="https://img.shields.io/badge/Wazuh-006400?logo=simple-icons:wazuh&labelColor=006400&color=006400&logoColor=white&style=for-the-badge"></a><br>
+- **Threat Intelligence** <br>
+  <a href="https://virustotal.github.io/yara/" target="_blank"><img src="https://img.shields.io/badge/Yara-8B0000?logo=simple-icons:yara&labelColor=8B0000&color=8B0000&logoColor=white&style=for-the-badge"></a>
+  <a href="https://www.filigran.io/opencti/" target="_blank"><img src="https://img.shields.io/badge/OpenCTI-1E90FF?logo=simple-icons:opencti&labelColor=1E90FF&color=1E90FF&logoColor=white&style=for-the-badge"></a>
+  <a href="https://www.misp-project.org/" target="_blank"><img src="https://img.shields.io/badge/MISP-006400?logo=simple-icons:misp&labelColor=006400&color=006400&logoColor=white&style=for-the-badge"></a>
+  <a href="https://github.com/stratosphereips/Trooper" target="_blank"><img src="https://img.shields.io/badge/Trooper-8B008B?logo=simple-icons:github&labelColor=8B008B&color=8B008B&logoColor=white&style=for-the-badge"></a><br>
+- **Digital Forensics** <br>
+  <a href="https://ericzimmerman.github.io/#!index.md" target="_blank"><img src="https://img.shields.io/badge/RegistryExplorer-8B4513?logo=simple-icons:registryexplorer&labelColor=8B4513&color=8B4513&logoColor=white&style=for-the-badge"></a>
+  <a href="https://www.autopsy.com/" target="_blank"><img src="https://img.shields.io/badge/Autopsy-5C4033?logo=simple-icons:autopsy&labelColor=5C4033&color=5C4033&logoColor=white&style=for-the-badge"></a>
+  <a href="https://volatility3.readthedocs.io/en/latest/" target="_blank"><img src="https://img.shields.io/badge/Volatility-000080?logo=simple-icons:volatility&labelColor=000080&color=000080&logoColor=white&style=for-the-badge"></a>
+  <a href="https://ericzimmerman.github.io/#!index.md" target="_blank"><img src="https://img.shields.io/badge/KAPE-006400?logo=simple-icons:kape&labelColor=006400&color=006400&logoColor=white&style=for-the-badge"></a><br>
+- **Incident Response** <br>
+  <a href="https://www.fireeye.com/services-and-products/endpoint-security/red-team-tools/redline.html" target="_blank"><img src="https://img.shields.io/badge/Redline-8B0000?logo=simple-icons:fireeye&labelColor=8B0000&color=8B0000&logoColor=white&style=for-the-badge"></a>
+  <a href="https://docs.rapid7.com/velociraptor/" target="_blank"><img src="https://img.shields.io/badge/Velociraptor-8B008B?logo=simple-icons:velociraptor&labelColor=8B008B&color=8B008B&logoColor=white&style=for-the-badge"></a>
+  <a href="https://thehive-project.org/" target="_blank"><img src="https://img.shields.io/badge/TheHive-8B5A00?logo=simple-icons:thehive&labelColor=8B5A00&color=8B5A00&logoColor=black&style=for-the-badge"></a><br>
+- **Operating Systems** <br>
+  <a href="https://www.microsoft.com/en-us/windows/" target="_blank"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white"></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black"></a>
+    <a href="https://www.virtualbox.org/" target="_blank"><img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white"></a><br>
+
+## Projects (40+ Completed)
+| # | Project | Focus Area |
+|---|--------|------------|
+| 1 | Static Malware Analysis Using YARA | Malware Reverse Engineering |
+| 2 | Snort IDS Rule Writing and Live Traffic Analysis | Network IDS |
+| 3 | Snort Inline Mode Deployment and Attack Blocking | Active Defense |
+| 4 | Zeek Network Behavior Analysis and Anomaly Detection | NSM |
+| 5 | Threat Hunting with Brim and ZQL on Enterprise PCAPs | Threat Hunting |
+| 6 | Wireshark PCAP Analysis – Full Attack Chain Reconstruction | Packet Analysis |
+| 7 | TShark Command-Line Traffic Analysis and Automation | Automation |
+| 8 | Directory Traversal Detection Using TShark | Web Attack Detection |
+| 9 | Live Windows System Investigation with Sysinternals Suite | Live Response |
+| 10 | Windows Event Log Analysis with PowerShell and wevtutil | Log Forensics |
+| ... | *(35 more folders inside this repo)* | All blue-team domains |
 
 
-![](https://img.shields.io/badge/hackGPT-v23-purple)
 
+## Certificates
+- Google Cybersecurity Professional Certificate – Sep 2025
+- TryHackMe Cybersecurity 101 - Sep 2025
+- TryHackMe SOC Level 1 Legacy - Nov 2025  
 
-<img width="1681" alt="Screenshot 2023-04-30 at 6 59 28 PM" src="https://user-images.githubusercontent.com/3261849/235382192-714758c2-5117-4c95-851d-eeeb9301221f.png">
-
-![Screenshot 2023-05-11 at 12 09 48 PM](https://github.com/NoDataFound/hackGPT/assets/3261849/f8f85831-706f-4398-9da1-365323f656bd)
-
-
-![WhiskersGPT](https://github.com/NoDataFound/hackGPT/assets/3261849/2157a52a-5f77-4d23-a6ca-c80d917b2bf8)
-
-<img width="1681" alt="Screenshot 2023-04-29 at 2 42 41 PM" src="https://user-images.githubusercontent.com/3261849/235321459-35eb1ecb-58b6-4439-9fee-dbc63e13f3e1.png">
-
-<img width="1624" alt="Screenshot 2023-04-24 at 8 41 52 PM" src="https://user-images.githubusercontent.com/3261849/234341399-f79b9ca3-e829-4831-8e67-e75e8840adfd.png">
-
-`hackGPT being superduper wrong`
-<img width="1663" alt="Nope" src="https://user-images.githubusercontent.com/3261849/223754401-e2caea7f-b4ff-452b-851e-2c3ab07c0192.png">
-
-`Ask ChatGPT to print its own source`
-
-<img width="675"  alt="Screenshot 2022-12-16 at 4 46 35 PM" src="https://user-images.githubusercontent.com/3261849/208202201-db534197-71c8-4f26-8041-72dd25e8d356.png">
-
-
-<img width="977" alt="Screenshot 2022-12-04 at 6 27 59 PM" src="https://user-images.githubusercontent.com/3261849/205525745-fa26c95b-9d86-4c84-8669-be1cde4abaf2.png">
-
-<img width="1269" alt="Screenshot 2022-12-04 at 6 32 40 PM" src="https://user-images.githubusercontent.com/3261849/205525669-9eb6e988-4440-43ea-8432-6f07066db7df.png">
-
-<img align="center" width="1800" alt="hackGPT" src="https://user-images.githubusercontent.com/3261849/211083766-e987961a-4f0a-427c-bbd8-6479f4449342.png"></p>
 
 **I'm a Night 🦉** 
 
